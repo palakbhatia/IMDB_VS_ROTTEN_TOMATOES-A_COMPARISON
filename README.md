@@ -1,7 +1,7 @@
 # A Comparative Analysis of Movie Ratings by IMDb and Rotten Tomatoes
 
 To view the interactive plots you can check the python notebook at - 
-[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/palakbhatia/IMDB_VS_Rotten_Tomatoes-A_Comparison/blob/9dcda7cfcb34edeb07e7e46aaeb0407f896c5d16/Notebook/RT%20vs%20IMDB%20clean.ipynb)
+[NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/palakbhatia/IMDB_VS_Rotten_Tomatoes-A_Comparison/blob/abebbd71674c9ab1c31782bf1ac29bc8302f8167/Notebook/RT%20vs%20IMDB%20v2.ipynb)
 
 ## Overview
 Do you always look at the rating of a movie before watching it? Has it ever happened to you that you wait for a movie to release but after the release you check out the ratings and end up not watching it? What is your favourite go to movie ratings website? 
@@ -61,4 +61,4 @@ On the other hand, the top rated rotten tomatoes movies genre(s) are not the sam
 - Has IMDb ranked the same genre(s) as the highest grossing genre(s) highest over the years? 
 - Has IMDb ranked the same movies as the highest grossing movies highest over the years? <br>
 
-All of these unanswered analysis have been added to the jupyter notebook. Visit [NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/palakbhatia/IMDB_VS_Rotten_Tomatoes-A_Comparison/blob/9dcda7cfcb34edeb07e7e46aaeb0407f896c5d16/Notebook/RT%20vs%20IMDB%20clean.ipynb) to view the interactive plots.
+All of these unanswered analysis have been added to the jupyter notebook. Visit [NB Viewer Jupyter Notebook](http://nbviewer.jupyter.org/github/palakbhatia/IMDB_VS_Rotten_Tomatoes-A_Comparison/blob/abebbd71674c9ab1c31782bf1ac29bc8302f8167/Notebook/RT%20vs%20IMDB%20v2.ipynb) to view the interactive plots.
