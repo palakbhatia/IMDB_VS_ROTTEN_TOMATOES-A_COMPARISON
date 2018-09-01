@@ -29,9 +29,10 @@ Data related to the highest grossing movies of the past 10 years has been fetche
 
 ## IMDb vs Rotten Tomatoes Ratings Comparison - A time trend
 The first step was to view how the means of the two ratings' websites vary over time. For this analysis, IMDb score was visualised as a boxplot and Rotten Tomatoes mean ratings over the 5 year time period as a line plot. The x-axis on the plot contains the time period values in years and the y-axis shows the scores/ratings. The interactivity of the plot has been implemented using plotly. Hovering over a particular year, the mean, median, max, min of the IMDb ratings & mean of rotten tomatoes ratings becomes visible. <br>
-![Alt text][logo]
+![Alt text][TimeTrend]
 
-[logo]: https://github.com/palakbhatia/IMDB_VS_Rotten_Tomatoes-A_Comparison/blob/master/Charts/TimeTrend.png "IMDb vs Rotten Tomatoes Ratings Comparison over Time"<br>
+[TimeTrend]: 
+      IMDB_VS_Rotten_Tomatoes-A_Comparison/Charts/TimeTrend.png "IMDb vs Rotten Tomatoes Ratings Comparison over Time"<br>
 Rotten Tomatoes ratings mean has always been lower than the IMDb ratings mean. Is this the result of IMDb always giving higher scores, or is it because Rotten Tomatoes always gives lower scores? 
 
 So, another analysis was done to compare the maximum and minimum scores for both over the years. This is a dynamically interactive plot, where either the minimum values for all years for both can be viewed or the maximum or both minimum and maximum at the same time. Hoveing over the particular year, the minimum and maximum values for both IMDb and Rotten Totamoes ratings becomes visible. <br>
