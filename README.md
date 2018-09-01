@@ -31,7 +31,7 @@ Data related to the highest grossing movies of the past 10 years has been fetche
 The first step was to view how the means of the two ratings' websites vary over time. For this analysis, IMDb score was visualised as a boxplot and Rotten Tomatoes mean ratings over the 5 year time period as a line plot. The x-axis on the plot contains the time period values in years and the y-axis shows the scores/ratings. The interactivity of the plot has been implemented using plotly. Hovering over a particular year, the mean, median, max, min of the IMDb ratings & mean of rotten tomatoes ratings becomes visible. 
 ![alt text][time-trend]
 
-[time-trend]: https://github.com/palakbhatia/IMDB_VS_Rotten_Tomatoes-A_Comparison/blob/master/Charts/TimeTrend.png "IMDb vs Rotten Tomatoes Ratings Comparison over Time"
+[time-trend]: https://github.com/palakbhatia/IMDB_VS_Rotten_Tomatoes-A_Comparison/blob/master/Charts/IMDb%20vs%20RT%20Time%20Trend.png "IMDb vs Rotten Tomatoes Ratings Comparison over Time"
 
 Rotten Tomatoes ratings mean has always been lower than the IMDb ratings mean. Is this the result of IMDb always giving higher scores, or is it because Rotten Tomatoes always gives lower scores? 
 
@@ -46,7 +46,7 @@ Another conclusion from here can be that IMDb ratings is more close to how the a
 ## Are the genre(s) of top rated movies same as the genre(s) of worldwide top grossing( in terms of earnings) movies? 
 ![alt text][top-grossing-movies-genre(s)]
 
-[top-grossing-movies-genre(s)]: https://github.com/palakbhatia/IMDB_VS_Rotten_Tomatoes-A_Comparison/blob/master/Charts/highest%20grossing%20genre.png "Top Grossing Movies Genre(s) in the past 10 Years"
+[top-grossing-movies-genre(s)]: https://github.com/palakbhatia/IMDB_VS_Rotten_Tomatoes-A_Comparison/blob/master/Charts/Top%20Genre%20for%20top%20Grossing%20Movies.PNG "Top Grossing Movies Genre(s) in the past 10 Years"
 
 This horizontal bar chart is a seaborn countplot, which depicts the number of movies in a genre(s) that were the top grossing movies in the past 10 years. The x-axis depicts the count of movies in the genre(s) and the y-axis shows the genre(s) name. The genre(s) with the most movies as the highest grossing for a year is "Action,Adventure,Fantasy", including the movies like 
 - Pirates of the Caribbean
@@ -55,7 +55,7 @@ This horizontal bar chart is a seaborn countplot, which depicts the number of mo
 
 ![alt text][top-rated genre(s)]
 
-[top-rated genre(s)]: https://github.com/palakbhatia/IMDB_VS_Rotten_Tomatoes-A_Comparison/blob/master/Charts/top%205%20genre.png "Top Rotten Tomatoes Rated Genre(s) in the past 10 Years"
+[top-rated genre(s)]: https://github.com/palakbhatia/IMDB_VS_Rotten_Tomatoes-A_Comparison/blob/master/Charts/Genre%20for%20top%20rated%20movies.PNG "Top Rotten Tomatoes Rated Genre(s) in the past 10 Years"
 
 On the other hand, the top rated rotten tomatoes movies genre(s) are not the same as the top grossing. Have you heard about the movies Sound City(2013), Wild Bill(2011) or LOL(2012)? These were a few of the top rated movies in the past decade. Is it again because the critically acclaimed movies are not really what the audiences prefer? <br>
 - Has IMDb ranked the same genre(s) as the highest grossing genre(s) highest over the years? 
